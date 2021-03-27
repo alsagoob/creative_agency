@@ -27,7 +27,3 @@ const noMenu = () => {
     feather.replace()
     
 }
-
-const formSubmit = (e) => {
-     e.preventDefault()
-     }
