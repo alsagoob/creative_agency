@@ -28,3 +28,6 @@ const noMenu = () => {
     
 }
 
+const formSubmit = (e) => {
+     e.preventDefault()
+     }
